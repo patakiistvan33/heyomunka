@@ -1,0 +1,5 @@
+Timi;Csabi;17;3500
+András;Gábor;5;2700
+Zoltán;Sándor;15;1900
+Fruzsina;Roland;21;2200
+Alfréd;Imre;35;1800
